@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\Event-Driven Programming\CreatAccount\bin\Debug\CreatAccount.exe.config
+C:\Users\LENOVO\source\repos\Event-Driven Programming\CreatAccount\bin\Debug\CreatAccount.exe
+C:\Users\LENOVO\source\repos\Event-Driven Programming\CreatAccount\bin\Debug\CreatAccount.pdb
+C:\Users\LENOVO\source\repos\Event-Driven Programming\CreatAccount\obj\Debug\CreatAccount.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Event-Driven Programming\CreatAccount\obj\Debug\CreatAccount.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Event-Driven Programming\CreatAccount\obj\Debug\CreatAccount.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Event-Driven Programming\CreatAccount\obj\Debug\CreatAccount.exe
+C:\Users\LENOVO\source\repos\Event-Driven Programming\CreatAccount\obj\Debug\CreatAccount.pdb
+C:\Users\LENOVO\source\repos\Event-Driven Programming\CreatAccount\obj\Debug\CreatAccount.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Event-Driven Programming\CreatAccount\obj\Debug\CreatAccount.Homepage.resources
+C:\Users\LENOVO\source\repos\Event-Driven Programming\CreatAccount\obj\Debug\CreatAccount.Login.resources
+C:\Users\LENOVO\source\repos\Event-Driven Programming\CreatAccount\obj\Debug\CreatAccount.CartBags.resources
+C:\Users\LENOVO\source\repos\Event-Driven Programming\CreatAccount\obj\Debug\CreatAccount.CartBelt.resources
+C:\Users\LENOVO\source\repos\Event-Driven Programming\CreatAccount\obj\Debug\CreatAccount.CartShoes.resources
+C:\Users\LENOVO\source\repos\Event-Driven Programming\CreatAccount\obj\Debug\CreatAccount.CartWear.resources
+C:\Users\LENOVO\source\repos\Event-Driven Programming\CreatAccount\obj\Debug\CreatAccount.Information.resources
